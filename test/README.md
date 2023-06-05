@@ -1,0 +1,3 @@
+先运行array_size.sh确定单线程下最佳数组大小
+
+然后运行thread_count.sh测试不同线程数下的带宽
